@@ -1,4 +1,3 @@
-browser.gatherUsageStats=false
 import base64
 import glob
 import json
